@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJS, Django, PHP or Programming**
 
-- 📫 You can reach me **kosharun04@gmail.com**
+- 📫 You can reach me at **kosharun04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
