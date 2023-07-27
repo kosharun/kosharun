@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Harun Kos</h1>
 <h3 align="center">A passionate full-stack developer from Bosnia and Herzegovina</h3>
 
-- 🔭 I’m currently working on a **Portfolio website** using React JS
+- 🔭 I’m currently working on a **project** using PHP
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://kosharun.pythonanywhere.com/](https://kosharun.pythonanywhere.com/)
 
-- 💬 Ask me about **ReactJS, Django or Programming**
+- 💬 Ask me about **ReactJS, Django, PHP or Programming**
 
 - 📫 You can reach me **kosharun04@gmail.com**
 
