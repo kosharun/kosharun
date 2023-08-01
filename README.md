@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my info is available at [https://kosharun.github.io/Portfolio/](kosharun.github.io/Portfolio/]( 
+- 👨‍💻 All of my info is available at [https://kosharun.github.io/Portfolio/](kosharun.github.io/Portfolio/) 
 
 - 💬 Ask me about **ReactJS, Django, PHP or Programming**
 
