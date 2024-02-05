@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on a **project** using PHP
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently expertising in **PHP**
 
 - 👨‍💻 All of my info is available at [https://kosharun.github.io/Portfolio/](kosharun.github.io/Portfolio/) 
 
-- 💬 Ask me about **ReactJS, Django, PHP or Programming**
+- 💬 Ask me about **ReactJS, PHP or Web development**
 
 - 📫 You can reach me at **kosharun04@gmail.com**
 
