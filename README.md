@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Harun Kos</h1>
 <h3 align="center">A passionate backend developer from Bosnia and Herzegovina</h3>
 
-- 🔭 I’m currently working on a **project** using Prisma, Express, Next, Postgresql and Typescript
+- 🔭 I’m currently working on a **project** using OpenAI API, Prisma, Express, Next, Postgresql and Typescript
 
 - 🌱 I’m currently expertising in **Express.js**
 
