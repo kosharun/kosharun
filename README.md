@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on a **project** using OpenAI API, Prisma, Express, Next, Postgresql and Typescript
 
-- 🌱 I’m currently expertising in **Express.js**
+- 🌱 I’m currently expertising in **Java, Spring**
 
-- 👨‍💻 All of my info is available at [https://kosharun.github.io/Portfolio/](kosharun.github.io/Portfolio/) 
+- 👨‍💻 All of my info is available at [https://kos-harun.netlify.app/](https://kos-harun.netlify.app/) 
 
 - 💬 Ask me about **Backend, or Web Development**
 
