@@ -1,68 +1,45 @@
-![Header](./github-header-image.png)
+# Harun Kos
 
-<h1 align="center">Hi 👋, I'm Harun Kos</h1>
-<h3 align="center">A passionate backend developer from Bosnia and Herzegovina</h3>
+**Business systems builder and full-stack developer from Bosnia and Herzegovina.**
 
-- 🔭 I’m currently working on a **project** using OpenAI API, Prisma, Express, Next, Postgresql and Typescript
+I turn business problems into working software. I build production web systems, internal tools, APIs, automations, and AI workflows. I focus on clear business rules, reliable integrations, and software that people can run and maintain.
 
-- 🌱 I’m currently expertising in **Java, Spring**
+## What I build
 
-- 👨‍💻 All of my info is available at [https://kos-harun.netlify.app/](https://kos-harun.netlify.app/) 
+- Full-stack web apps and internal business tools
+- REST APIs, webhooks, and service integrations
+- n8n and OpenAI API workflows
+- Data and operations systems
+- Docker-based deployment and GitHub Actions pipelines
 
-- 💬 Ask me about **Backend, or Web Development**
+## Main technologies
 
-- 📫 You can reach me at **kosharun04@gmail.com**
+- **Core:** Node.js, Express.js, React, TypeScript, JavaScript
+- **Data:** PostgreSQL, MongoDB
+- **Automation and delivery:** n8n, OpenAI API, REST APIs, webhooks, Docker, GitHub Actions, VPS deployment
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harun-kos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun-kos" height="30" width="40" /></a>
-<a href="https://instagram.com/kosharunn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kosharunn" height="30" width="40" /></a>
-</p>
+## Featured projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
+### [LeadCapture Realty: AI Leasing Assistant](https://github.com/kosharun/ai-leasing-assistant)
 
+A public-safe real estate lead capture workflow with a Next.js chat interface, a server-side n8n adapter, validation, tests, Docker, and a local demo mode.
 
+### RecordLogs
+
+A private production property operations system for workflows, payments, statements, role-based access, and reporting. Client code and data remain private.
+
+### Kultni AI
+
+A private team project for AI-assisted campaign planning and publishing. It includes approval steps, scheduled jobs, Meta platform APIs, Redis, and BullMQ. Private code and client data remain private.
+
+### [JavaFX IT Inventory](https://github.com/kosharun/javafx-it-inventory)
+
+A sanitized desktop asset management app with JavaFX, MySQL, Maven, two-factor authentication, reports, environment-based config, tests, and CI.
+
+## Open to work
+
+I am looking for full-stack, backend, junior software engineering, AI automation, n8n automation, solutions engineering, technical support, and technical operations roles. I am also open to contractor and B2B projects.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/harun-kos) · [Public portfolio](https://github.com/kosharun/business-systems-portfolio) · [GitHub](https://github.com/kosharun)
