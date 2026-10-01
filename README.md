@@ -42,4 +42,4 @@ I am looking for full-stack, backend, junior software engineering, AI automation
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/harun-kos) · [Public portfolio](https://github.com/kosharun/business-systems-portfolio) · [GitHub](https://github.com/kosharun)
+[LinkedIn](https://www.linkedin.com/in/harun-kos) · [Public portfolio](https://harunkos.divigent.dev) · [GitHub](https://github.com/kosharun)
